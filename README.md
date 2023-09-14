@@ -1,1 +1,2 @@
 # superconducting
+learn superconducting magnet
